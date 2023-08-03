@@ -1,3 +1,4 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
 Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Envelopes,3.264,2,0.2,1.1016
 Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,86.304,6,0.2,9.7092
 Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,6.858,6,0.7,-5.715

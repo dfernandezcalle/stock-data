@@ -1,3 +1,4 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
 Second Class,Consumer,United States,San Francisco,California,94109,West,Technology,Phones,213.48,3,0.2,16.011
 Second Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Binders,22.72,4,0.2,7.384
 Standard Class,Corporate,United States,Fremont,Nebraska,68025,Central,Office Supplies,Art,19.46,7,0,5.0596
